@@ -24,5 +24,3 @@ Encounter 3: A Glimmer of Light (a helping hand reaching out) – Beginning to f
 Encounter 4: A Bright Room – Expanding with identity symbols.
 
 Encounter 5: A Meadow with many flowers, with a large mirror in the center – Having found oneself, understanding who they truly are.
-
-# 
