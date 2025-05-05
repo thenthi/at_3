@@ -5,3 +5,5 @@ snippet: week 7 session 2
 disable_html_sanitization: true
 allow_math: true
 ---
+# Activity in class
+![mountain](mountain.png)
