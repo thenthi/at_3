@@ -5,3 +5,4 @@ snippet: week 8 session 1
 disable_html_sanitization: true
 allow_math: true
 ---
+![activity](activity.jpg)
